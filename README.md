@@ -56,7 +56,7 @@ Bridging deterministic bare-metal hardware with modern AI agent workflows and di
 | **[dw2-wifi-firmware](https://github.com/RoDTOX/dw2-wifi-firmware)** | Embedded / Firmware | Reverse-engineered custom firmware for low-power door/window sensors broadcasting instant BTHome BLE events with multi-month battery life. | `C` `ESP8266/BLE` `BTHome` |
 | **[ScreenSentry](https://github.com/RoDTOX/ScreenSentry)** | AI & Vision | Intelligent workstation monitor leveraging multimodal vision models to audit desktop state, enforce focus, and flag anomalies. | `Python` `Vision AI` `OpenCV` |
 | **[agent-auto-approve](https://github.com/RoDTOX/agent-auto-approve)** | Developer Tooling | Deterministic policy engine and auto-approval daemon designed for sandboxed autonomous coding agent workflows. | `Python` `AI Workflows` `CLI` |
-| **[LidlReceipts](https://github.com/RoDTOX/LidlReceipts)** | Systems Integration | Reverse-engineered Lidl Plus client enabling automated digital receipt aggregation, full-text search, and Parkside warranty tracking. | `Python` `APIs` `CLI` |
+| **[smart-home-ble-gateway](https://github.com/RoDTOX/smart-home-ble-gateway)** | IoT & Edge Computing | 100% software IoT gateway running on Android with BTSnoop HCI log tailing, local Matter bridge to Google Home, and Grafana telemetry. | `Android` `BTHome` `Matter` `MQTT` `Grafana` |
 | **[CAN Scheduler Design](https://github.com/RoDTOX/rodtox.github.io)** | Automotive Software | Detailed architectural design of an ISO 11898-compliant CAN event frame scheduler adhering to MISRA-C:2012 constraints. | `MISRA-C` `CAN` `Architecture` |
 
 ---
