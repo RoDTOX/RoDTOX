@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bogdan-Constantin SECELEANU (@RoDTOX)
+# Bogdan CS (@RoDTOX)
 
 ### Embedded Software Engineer & Lead (11+ yrs)
 **Automotive Communication Middleware • Vehicle Simulations & HIL • ASPICE**
@@ -8,10 +8,6 @@
 *Bridging 11+ years of automotive systems rigor with applied AI-first engineering and hardware prototyping.*
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SECELEANU%20Bogdan--Constantin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://ro.linkedin.com/in/seceleanubogdan)
-[![GitHub](https://img.shields.io/github/followers/RoDTOX?label=GitHub%20Follow&style=social)](https://github.com/RoDTOX)
-[![Email](https://img.shields.io/badge/Contact-Email-blue?logo=gmail&logoColor=white)](mailto:bogdan.seceleanu@yahoo.com)
 
 </div>
 
